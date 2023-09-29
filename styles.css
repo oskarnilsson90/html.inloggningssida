@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    text-align: center;
+}
+
+#title1{
+    font-size: 3rem;
+}
+
+#franklin{
+    height: 30vh;
+    width: 30vh;
+    margin: 1rem;
+    border-radius: 30%;
+}
+main{
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    height: 100vh;
+}
+.set{
+    text-align: center;
+    margin: 2rem;
+}
+button{
+    background-color: cadetblue;
+}
+
+footer{
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.setFooter{
+    text-align: center;
+    margin: 2rem;
+}
