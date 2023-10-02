@@ -1,5 +1,5 @@
 // User data
-const userName = ("bella");
+const userName = ("Bella");
 const passWord = ("qwe123");
 // DOM elements
 const inputUserName = document.getElementById("inputUserName");
